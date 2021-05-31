@@ -1,0 +1,154 @@
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.pdb
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrKayit.resources
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.Properties.Resources.resources
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.GenerateResource.Cache
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAnaForm.resources
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmBolumler.resources
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOdemeler.resources
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrListe.resources
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrDuzenle.resources
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGider.resources
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderListesi.resources
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderDuzenle.resources
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGelirIstatistik.resources
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAdminYoneticiGiris.resources
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmYoneticiDuzenle.resources
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmPersonel.resources
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmNotEkle.resources
+C:\Users\Orkun YALINKILIÇ\source\repos\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrenciRapor.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAnaForm.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmBolumler.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGelirIstatistik.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGider.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderDuzenle.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderListesi.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOdemeler.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrDuzenle.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrKayit.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrListe.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmYoneticiDuzenle.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.Properties.Resources.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.GenerateResource.Cache
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.BolumIslemleri.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmBolumAyrıntı.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.OgrenciIslemleri.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOgrDuzenleFormu.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOgrArama.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderGuncellecs.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmGiderSil.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmYoneticiIslemleri.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmDuyuruEkle.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.OdaListe.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOdaSil.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOdaIslem.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOdaArama.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmYemekEkleme.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmSecilenYemekAyrinti.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.OgleYemekGun.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmAksamYemekGun.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmAylikPlanListe.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmYemekAylikPlan.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOgleYemekGuncelleSecim.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmYemekGuncellemeSayfasi.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.YemekAlinanFirma.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmŞoforEkle.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.SoforAyrıntı.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.SoforIslemleri.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmSoforListecs.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmAracServisGuncelle.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmAracServisListe.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.BorcIslemleri.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmBorcGoruntuleme.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmBorcOdemeAl.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.PersonelISLEM.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmPersonelAyrintiIslem.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmGiderIstatistik.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmGiderIstatistikleri.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOgrenciYoneticiGiris.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmDuyuruGoruntuleme.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmDuyuruAyrinti.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmDuyuruGoruntule.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmYoneticiEkle.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.BolumIslemleri.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.BorcIslemleri.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmAksamYemekGun.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAnaForm.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmAracServisGuncelle.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmAracServisListe.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmAylikPlanListe.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmBolumAyrıntı.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmBolumler.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmBorcGoruntuleme.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmBorcOdemeAl.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmDuyuruAyrinti.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmDuyuruEkle.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmDuyuruGoruntule.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmDuyuruGoruntuleme.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGelirIstatistik.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGider.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderDuzenle.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderGuncellecs.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmGiderIstatistik.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmGiderIstatistikleri.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderListesi.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmGiderSil.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOdaArama.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOdaIslem.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOdaSil.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOdemeler.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOgleYemekGuncelleSecim.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOgrArama.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrDuzenle.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOgrDuzenleFormu.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOgrenciYoneticiGiris.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrKayit.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrListe.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmPersonelAyrintiIslem.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmSecilenYemekAyrinti.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmSoforListecs.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmYemekAylikPlan.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmYemekEkleme.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmYemekGuncellemeSayfasi.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmYoneticiDuzenle.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmYoneticiEkle.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmŞoforEkle.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.OdaListe.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.OgleYemekGun.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.OgrenciIslemleri.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.PersonelISLEM.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.Properties.Resources.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.SoforAyrıntı.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.SoforIslemleri.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.YemekAlinanFirma.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.GenerateResource.Cache
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmSatisHareketGoruntuleme.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmUrunEkleme.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmUrunSilme.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmUrunGuncellemeIslem.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmUrunGuncellemeSecim.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmMusteriEkleme.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmMusteriSil.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmPersonelEkleme.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmPersonelSilme.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmKasa.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmSatis.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmMagazaIstatistik.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\YurtKayitSistemi - VT\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csprojAssemblyReference.cache
